@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Caleb Kibet
+  affiliation: JKUAT
+  github: kipkurui
   interests:
+    - Bioinformatics
     - Programming
     - Open Science
